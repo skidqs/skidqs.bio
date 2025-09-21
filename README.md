@@ -12,7 +12,3 @@ Visit it live at [https://skidqs.bio](https://skidqs.bio)
 - Easy to customize
 
 ---
-
-## Installation / Local Setup
-1. Clone the repository:
-```bash
