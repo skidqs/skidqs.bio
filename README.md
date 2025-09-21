@@ -1,21 +1,21 @@
 # Personal Bio Page
 
-A clean, minimal personal bio page / portfolio website built in HTML.  
+A clean and minimal personal landing page featuring a cool background, a favorite song, and links to my social profiles.  
 Check it out live at [https://skidqs.bio](https://skidqs.bio)
 
 ---
 
 ## Features
-- Clean and minimal personal bio page
-- Highlights skills, projects, and portfolio
-- Fully static, lightweight, and responsive
-- Easy to customize content and style
+- Links to your social profiles
+- Background image or animation for a polished look
+- Background music for an immersive experience
+- Lightweight and fully static HTML page
+- Easy to customize content
 
 ---
 
 ## Screenshots
-![Homepage Screenshot](assets/screenshot-home.png)
-![Portfolio Section Screenshot](assets/screenshot-portfolio.png)
+![Landing Page Screenshot](assets/screenshot-home.png)
 
 ---
 
